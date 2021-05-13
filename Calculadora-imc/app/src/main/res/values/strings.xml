@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">IMC!</string>
     <string name="pesotxt">Peso (ex. 51 kg)</string>
-    <string name="alturatxt">Altura (ex. 1,78 m)</string>
+    <string name="alturatxt">Altura (ex. 1.78 m)</string>
+    <string name="IMC">imc</string>
 
 </resources>
